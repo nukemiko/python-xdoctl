@@ -1,6 +1,12 @@
 # xdoctl - Xdotool 命令包装器
 
-xdoctl 通过包装 xdotool 提供的各种操作和命令，提供一种在 Python 操作 xdotool 工具的方式。
+xdoctl 通过包装 xdotool 提供的各种操作和命令，提供一种使用 Python 操作 xdotool 工具的方式。
+
+## 如何安装
+
+- 直接从仓库安装：
+  - `pip install git+https://github.com/nukemiko/python-xdoctl`
+- 或者到 [发布页面](https://github.com/nukemiko/python-xdoctl/releases) 下载打包好的版本，然后使用 `pip` 安装
 
 ## 常用操作示例
 
