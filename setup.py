@@ -11,7 +11,7 @@ setup(
     name='python-xdoctl',
     version=pkgver(),
     packages=['xdoctl'],
-    url='https://github/nukemiko/python-xdoctl',
+    url='https://github.com/nukemiko/python-xdoctl',
     license='MIT',
     author='nukemiko',
     author_email='north666dakota@gmail.com',
