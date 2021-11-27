@@ -1,6 +1,6 @@
 """Xdotool 命令包装器
 
-xdoctl 通过包装 xdotool 提供的各种操作和命令，提供一种在 Python 操作 xdotool 工具的方式。
+xdoctl 通过包装 xdotool 提供的各种操作和命令，提供一种使用 Python 操作 xdotool 工具的方式。
 
 常用操作示例：
 
