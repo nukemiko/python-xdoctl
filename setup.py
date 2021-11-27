@@ -12,7 +12,7 @@ setup(
     version=pkgver(),
     packages=['xdoctl'],
     url='https://github/nukemiko/python-xdoctl',
-    license='',
+    license='MIT',
     author='nukemiko',
     author_email='north666dakota@gmail.com',
     description='Xdotool 命令包装器',
